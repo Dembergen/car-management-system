@@ -1,6 +1,3 @@
-package type;
-
-import type.AdsService;
 import type.body.PickupType;
 import type.body.SedanType;
 import type.fuel.DieselType;
