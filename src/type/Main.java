@@ -1,3 +1,13 @@
+package type;
+
+import type.AdsService;
+import type.body.PickupType;
+import type.body.SedanType;
+import type.fuel.DieselType;
+import type.fuel.PetrolType;
+import type.purpose.CarType;
+import type.purpose.TruckType;
+
 public class Main {
     public static void main(String[] args) {
         AdsService adsService = new AdsService();

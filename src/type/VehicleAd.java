@@ -1,3 +1,9 @@
+package type;
+
+import type.body.VehicleTypeByBodyTypes;
+import type.fuel.VehicleTypeByFuelTypes;
+import type.purpose.VehicleTypeByPurpose;
+
 public class VehicleAd {
     private String model;
     private String id;

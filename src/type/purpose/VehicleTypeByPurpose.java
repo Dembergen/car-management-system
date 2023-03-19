@@ -1,6 +1,10 @@
-public class VehicleTypeByPurpose extends VehicleType{
+package type.purpose;
+
+import type.VehicleType;
+
+public class VehicleTypeByPurpose extends VehicleType {
     public VehicleTypeByPurpose() {
-        super("Vehicle type by purpose");
+        super("Vehicle type by type.purpose");
     }
 
     @Override
